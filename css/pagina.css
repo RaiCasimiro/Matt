@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Slab & display=swap');
+
+body{
+    background-color: #0f0c29;
+}
+
+.meio{
+    background-color: white;
+    display: flex;
+    border-radius: 20px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.foto{
+    padding: 20px;
+    height: 840px;
+    width: 500px;
+}
+
+.nome{
+    font-family: 'Playfair Display', serif;
+}
+
+.pais{
+    display: flex;
+}
+
+.bandeira{
+    display: flex;
+    align-items: center;
+    
+}
+
+.bandeira img {
+    width: 50px;
+    margin-right: 10px;
+}
+
+.frase{
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.topicos{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 45px;
+}
+
